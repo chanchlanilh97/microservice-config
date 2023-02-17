@@ -1,4 +1,4 @@
 my:
   demomessage: Hello from config server demo props!
   list:
-    values: One, Two, Three, Four, 1234, 5678
+    values: One, Two, Three, Four, 1234
